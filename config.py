@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", 29908998))
-API_HASH = getenv("API_HASH", "3a0d920a6370b97671ea838d92dc559c")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", 6566179661))
-MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "ll_THE_BAD_BOT_ll")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "ll_BAD_MUNDA_WORLD_ll")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "II_BAD_BBY_II")
+API_ID = int(getenv("API_ID", 28196711))
+API_HASH = getenv("API_HASH", "a8a23bffb12aae7a4c72fa2b4cd538a1")
+BOT_TOKEN = getenv("BOT_TOKEN", 7507225748:AAESDNqTlApzE8YcWo8GFqWWAxw3Jo9DZ1Q)
+OWNER_ID = int(getenv("OWNER_ID", 6655939309))
+MONGO_URL = getenv("MONGO_URL", mongodb+srv://PANDABABY:PANDABABY@pandababy.rft5a3z.mongodb.net/?retryWrites=true&w=majority&appName=Pandababy)
+SUPPORT_GRP = getenv("SUPPORT_GRP", "strangerchattingclub")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "PandaLovebaby")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Rajasahab3891")
 
 # Random Start Images
 IMG = [
