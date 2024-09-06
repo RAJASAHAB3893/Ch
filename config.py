@@ -6,7 +6,7 @@ load_dotenv()
 
 API_ID = int(getenv("API_ID", 28196711))
 API_HASH = getenv("API_HASH", "a8a23bffb12aae7a4c72fa2b4cd538a1")
-BOT_TOKEN = getenv("BOT_TOKEN", 7507225748:AAESDNqTlApzE8YcWo8GFqWWAxw3Jo9DZ1Q)
+BOT_TOKEN = getenv("BOT_TOKEN", None)
 OWNER_ID = int(getenv("OWNER_ID", 6655939309))
 MONGO_URL = getenv("MONGO_URL", mongodb+srv://PANDABABY:PANDABABY@pandababy.rft5a3z.mongodb.net/?retryWrites=true&w=majority&appName=Pandababy)
 SUPPORT_GRP = getenv("SUPPORT_GRP", "strangerchattingclub")
